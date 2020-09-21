@@ -36,4 +36,3 @@ Before changing the scores with nan, Thomas High School was in the second place 
 ![district summary:](School_District_Analysis/district_summary.png)
 ![new district summary:](School_District_Analysis/new_district_summary.png)
 
-
