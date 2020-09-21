@@ -34,5 +34,6 @@ Before changing the scores with nan, Thomas High School was in the second place 
  According to the pictures,Total number of students decrease to 38709, Average math and reading scores decreased . Also percentage pass of reading , math and overall passing droped slightly.
 
 ![district summary:](School_District_Analysis/district_summary.png)
+
 ![new district summary:](School_District_Analysis/new_district_summary.png)
 
